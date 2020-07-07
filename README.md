@@ -23,15 +23,14 @@ Output: signature + message.
 
 ## Ethereum Signature to Address
 
-Write a program to find the signer’s Ethereum address by given  
-message + Ethereum signature.
+Write a program to find the signer’s Ethereum address by given message + Ethereum signature.
  
 Input: message + signature
 Output: address
 
 ## Ethereum Signature Verifier
 
-Write a program to verify the Ethereum signature of given  message by given Ethereum address.
+Write a program to verify the Ethereum signature of given message by given Ethereum address.
  
 Input: message + signature + address 
 Output: valid / invalid. 

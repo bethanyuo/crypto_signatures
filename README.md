@@ -18,30 +18,29 @@ Refer to the demos folder for sample calculations. Refer to the exercise-resourc
 
 Write a program to calculate an Ethereum signature by given message and private key.
  
-Input: 256-bit private key + input text message. 
-Output: signature + message. 
+* Input: 256-bit private key + input text message. 
+* Output: signature + message. 
 
 ## Ethereum Signature to Address
 
 Write a program to find the signer’s Ethereum address by given message + Ethereum signature.
  
-Input: message + signature
-Output: address
+* Input: message + signature
+* Output: address
 
 ## Ethereum Signature Verifier
 
 Write a program to verify the Ethereum signature of given message by given Ethereum address.
  
-Input: message + signature + address 
-Output: valid / invalid. 
+* Input: message + signature + address 
+* Output: valid / invalid. 
 
 ## Private Key to Bitcoin Address 
 
-Write a program to generate a Bitcoin address by given Bitcoin private key 
-(WIF-encoded). 
+Write a program to generate a Bitcoin address by given Bitcoin private key (WIF-encoded). 
 
-Input: BTC Private Key
-Output: address
+* Input: BTC Private Key
+* Output: address
 
 ### Module
 MI1: Module 5: E1

@@ -10,7 +10,7 @@ Refer to the demos folder for sample calculations. Refer to the exercise-resourc
 * [eth_keys](https://pypi.org/project/eth_keys/)
 * [bitcoin](https://pypi.org/project/bitcoin/)
 
-## Javascript Libraries
+## JavaScript Libraries
 * [eth-crypto](https://www.npmjs.com/package/eth-crypto)
 * [bitcoinjs-lib](https://www.npmjs.com/package/bitcoinjs-lib)
 
